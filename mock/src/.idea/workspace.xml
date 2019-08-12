@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../gradle-empty-stack-2019-7-5-15-58-18-862-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../springboot-stack-2019-7-16-9-35-9-633-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zhege" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zuizhong" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/2018-07-09-10-17-19-1531131439-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/ParkingLot-2019-7-11-13-35-0-378-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/java-stream-collection-2019-7-11-9-21-55-101-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/junit5-tdd-stack-2019-6-13-9-32-51-48-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/order-receipt-2019-6-14-6-44-33-528-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/refactoring_step_by_step-2019-7-6-1-55-54-996-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/refactoring_techniques_practice-2019-6-14-6-41-33-583-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/unit-test-basic-2019-6-14-3-19-48-282-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/unit-test-mock-basic-2019-6-14-3-33-53-188-master" value="PREVIEW" />
+        <entry key="D:/oocl_java_spring_data_jpa_practice-2019-7-16-14-14-9-994" value="PREVIEW" />
+        <entry key="D:/package-booking-backend" value="PREVIEW" />
+        <entry key="D:/spring-jpa-unit-test-2019-6-14-7-57-18-819" value="PREVIEW" />
+        <entry key="D:/spring_data_jpa_practice-2019-7-18-3-42-49-390" value="PREVIEW" />
+        <entry key="D:/springboot-stack-2019-6-14-7-0-3-580" value="PREVIEW" />
+        <entry key="D:/springboot-stack-2019-7-16-9-35-9-633" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="199" />
+    <option name="y" value="103" />
+    <option name="width" value="1400" />
+    <option name="height" value="919" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+</project>
